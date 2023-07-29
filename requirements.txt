@@ -1,0 +1,13 @@
+django
+Pillow
+social-auth-app-django
+django-extensions
+werkzeug
+pyOpenSSL
+certifi
+easy-thumbnails
+easy_thumbnails
+django-uuslug
+redis
+django-redis
+sshtunnel
